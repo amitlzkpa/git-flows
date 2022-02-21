@@ -3,13 +3,13 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAEhgnKq4qlk5pxDFVwzOFb6G9UroAsQww",
-  authDomain: "starter-firebase-emul-vuetify.firebaseapp.com",
-  projectId: "starter-firebase-emul-vuetify",
-  storageBucket: "starter-firebase-emul-vuetify.appspot.com",
-  messagingSenderId: "381798323659",
-  appId: "1:381798323659:web:837ca1ec008b15bf0d124e",
-  measurementId: "G-5E6BB52HXH",
+  apiKey: "AIzaSyAbnYBc_zkPqPwoQ6EZ6ge5eYOMhiravG4",
+  authDomain: "git-flows.firebaseapp.com",
+  projectId: "git-flows",
+  storageBucket: "git-flows.appspot.com",
+  messagingSenderId: "573313630457",
+  appId: "1:573313630457:web:ad67305162492d18332228",
+  measurementId: "G-YLHKX56XBT"
 };
 firebase.initializeApp(firebaseConfig);
 

@@ -1,7 +1,7 @@
 <template>
   <v-app-bar app>
     <v-btn text :to="isLoggedIn ? '/home' : '/'">
-      starter-firebase-emul-vuetify
+      git-flows
     </v-btn>
 
     <v-spacer></v-spacer>

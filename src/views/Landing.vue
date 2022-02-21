@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-container>
-      <p class="text-h2 font-weight-light">starter-firebase-emul-vuetify</p>
+      <p class="text-h2 font-weight-light">git-flows</p>
     </v-container>
   </div>
 </template>

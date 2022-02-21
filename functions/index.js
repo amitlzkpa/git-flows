@@ -6,5 +6,5 @@ let app = admin.initializeApp();
 
 exports.test = functions.https.onRequest(async (req, res) => {
   functions.logger.info("Test success!", { structuredData: true });
-  res.send("Hello from starter-firebase-emul-vuetify!");
+  res.send("Hello from git-flows!");
 });
